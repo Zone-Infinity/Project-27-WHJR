@@ -1,0 +1,10 @@
+main: infinity.minecraft.Main
+name: Hello
+version: 1.0
+author: ZoneInfinity
+
+commands:
+  Hello:
+    description: "Greetings"
+  Heal:
+    description: "Heals a person"
